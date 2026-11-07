@@ -5,7 +5,7 @@ using System.Xml.Linq;
 using static System.Console;
 
 
-//namespace Homework 5/2
+//namespace Homework 5/2.
 
 
 
